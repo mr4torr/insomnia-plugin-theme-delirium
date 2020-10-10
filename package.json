@@ -6,7 +6,7 @@
   "author": "mr4torr",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mr4torr/insomnia-plugin-theme-delirium"
+    "url": "git+https://github.com/mr4torr/insomnia-plugin-theme-delirium.git"
   },
   "bugs": {
     "url": "https://github.com/mr4torr/insomnia-plugin-theme-delirium/issues"
@@ -17,19 +17,32 @@
     "description": "Delirium Dark Theme for Insomnia",
     "displayName": "Delirium Dark Theme",
     "images": {
-        "cover": "assets/cover.png",
-        "icon": "assets/icon.png"
+      "cover": "assets/cover.png",
+      "icon": "assets/icon.png"
     },
     "publisher": {
-        "name": "Mailon Torres",
-        "icon": "https://avatars3.githubusercontent.com/u/79762?v=4"
+      "name": "Mailon Torres",
+      "icon": "https://avatars3.githubusercontent.com/u/79762?v=4"
     },
     "keywords": [
-        "delirium",
-        "mirage",
-        "theme",
-        "insomnia",
-        "insomnia-plugin"
+      "delirium",
+      "mirage",
+      "theme",
+      "insomnia",
+      "insomnia rest",
+      "insomnia-plugin"
     ]
-}
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/mr4torr/insomnia-plugin-theme-delirium#readme",
+  "keywords": [
+    "delirium",
+    "mirage",
+    "theme",
+    "insomnia",
+    "insomnia rest",
+    "insomnia-plugin"
+  ]
 }

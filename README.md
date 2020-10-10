@@ -9,7 +9,7 @@
 </p>
 
 <img src=".github/cover.png"/>
-<img src=".github/theme.png"/>
+<img src=".github/themes.png"/>
 
 
 ### 🚀 Installation
