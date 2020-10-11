@@ -1,22 +1,22 @@
 <p align="center">
-  <img src=".github/icon.png" />
+  <img src="https://raw.githubusercontent.com/mr4torr/insomnia-plugin-theme-delirium/master/assets/icon.png" />
 </p>
 
 # Delirium Dark Theme for Insomnia Rest
 
 <p align="center">
     <img alt="NPM Version" src="https://img.shields.io/npm/v/insomnia-plugin-theme-delirium.svg">
-    <a href="https://www.linkedin.com/in/mailontorres/">
+    <a href="https://www.linkedin.com/in/mailontorres">
         <img alt="Made by Mailon Torres" src="https://img.shields.io/badge/made%20by-mr4torr-%2304D361">
     </a>
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 <p align="center">
-  <img src=".github/cover.png"/>
+  <img src="https://raw.githubusercontent.com/mr4torr/insomnia-plugin-theme-delirium/master/assets/cover.png"/>
 </p>
 <p align="center">
-  <img src=".github/theme.png"/>
+  <img src="https://raw.githubusercontent.com/mr4torr/insomnia-plugin-theme-delirium/master/assets/theme.png"/>
 </p>
 
 ### 🚀 Installation
@@ -44,10 +44,10 @@ Give a ⭐️ if this project helped you!
 - [Insomnia Rest](https://insomnia.rest/)
 
 
-### :memo: License
+### License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
 
 ---
 
-Made with ♥ by Mailon Torres :wave: [Get in touch!](https://www.linkedin.com/in/mailontorres/)
+Made with ♥ by Mailon Torres :wave: [Get in touch!](https://www.linkedin.com/in/mailontorres)
