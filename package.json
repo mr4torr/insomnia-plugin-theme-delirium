@@ -4,6 +4,9 @@
   "description": "Delirium Dark Theme for Insomnia",
   "license": "MIT",
   "author": "mr4torr",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mr4torr/insomnia-plugin-theme-delirium.git"
@@ -26,10 +29,9 @@
     },
     "keywords": [
       "delirium",
-      "mirage",
       "theme",
       "insomnia",
-      "insomnia rest",
+      "insomnia-theme",
       "insomnia-plugin"
     ]
   },
@@ -39,10 +41,10 @@
   "homepage": "https://github.com/mr4torr/insomnia-plugin-theme-delirium#readme",
   "keywords": [
     "delirium",
-    "mirage",
     "theme",
+    "dark",
     "insomnia",
-    "insomnia rest",
+    "insomnia-theme",
     "insomnia-plugin"
   ]
 }
