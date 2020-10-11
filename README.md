@@ -12,9 +12,10 @@
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-<img src=".github/cover.png"/>
-<img src=".github/themes.png"/>
-
+<p align="center">
+  <img src=".github/cover.png"/>
+  <img src=".github/theme.png"/>
+</p>
 
 ### 🚀 Installation
 
