@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/icon.png" />
+</p>
+
 # Delirium Dark Theme for Insomnia Rest
 
 <p align="center">
@@ -31,6 +35,11 @@ After merging your receipt request to done, you can delete a branch from yours.
 ### Show your support
 
 Give a ⭐️ if this project helped you!
+
+## Related
+
+- [Hyper](https://insomnia.rest/)
+
 
 ### :memo: License
 
