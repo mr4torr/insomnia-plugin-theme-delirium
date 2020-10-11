@@ -1,11 +1,11 @@
 {
   "name": "insomnia-plugin-theme-delirium",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Delirium Dark Theme for Insomnia",
   "license": "MIT",
   "author": "mr4torr",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
