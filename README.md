@@ -14,6 +14,8 @@
 
 <p align="center">
   <img src=".github/cover.png"/>
+</p>
+<p align="center">
   <img src=".github/theme.png"/>
 </p>
 
@@ -39,7 +41,7 @@ Give a ⭐️ if this project helped you!
 
 ## Related
 
-- [Hyper](https://insomnia.rest/)
+- [Insomnia Rest](https://insomnia.rest/)
 
 
 ### :memo: License
